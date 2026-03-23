@@ -1,0 +1,7 @@
+
+dani@dani-VirtualBox:~/Documentos/dev/actividad-6-2-ramas-git$ git branch
+* feature-mensaje-bienvenida
+  main
+dani@dani-VirtualBox:~/Documentos/dev/actividad-6-2-ramas-git$ git log --oneline
+eaca9ed (HEAD -> feature-mensaje-bienvenida) Añade mensaje de bienvenida en rama feature
+ce9e0ac (main) Versión inicial de la aplicación

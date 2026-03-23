@@ -1,0 +1,4 @@
+dani@dani-VirtualBox:~/Documentos/dev/actividad-6-2-ramas-git$ git branch
+* main
+dani@dani-VirtualBox:~/Documentos/dev/actividad-6-2-ramas-git$ git log --oneline
+ce9e0ac (HEAD -> main) Versión inicial de la aplicación
